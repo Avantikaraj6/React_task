@@ -1,0 +1,29 @@
+.body-items{
+    display:flex;
+    justify-content: space-around;
+    margin:0px 40px;
+    border-top:1px solid lightgray;
+    border-bottom:1px solid lightgray
+}
+.filter-item>h5>span{
+    padding-left:50px;
+}
+.grid-item{
+    display:flex;
+}
+.filter-box{
+    box-shadow:0px 0px 2px 2px lightgray;
+    padding:10px;
+    position:absolute;
+    background-color:#ffffff;
+    width:180px;
+    padding-bottom:10px;
+    border-radius:5px;
+}
+.filter-box>ul>li{
+  padding:10px 0px;
+  cursor: pointer;
+}
+.recommendation{
+     position:relative;
+}

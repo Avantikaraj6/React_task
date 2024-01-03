@@ -1,0 +1,31 @@
+.product-img{
+    width:120px;
+    height:150px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    padding:10px 0px 0px 0px;
+}
+.item-2{
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    margin-top:20px;
+}
+.item-box{
+    width:180px;
+    height:250px;
+  border:1px solid gray;
+    margin-left:20px;
+    margin-bottom:20px;
+}
+.item-box>h6{
+    text-align: center;
+    padding:10px;
+}
+.item-box>p{
+    text-align: center;
+    margin:0px !important;
+    font-size:10px;
+    padding-bottom:5px;
+}

@@ -1,0 +1,22 @@
+.item-1{
+    width:900px;
+        margin:10px 0px 0px 50px;
+}
+.item-1>div>h6{
+  font-size:14px;
+  margin-bottom:0px;
+}
+.item-1>div>p{
+    border-bottom:1px solid lightgray;
+    padding-bottom:5px;
+    margin-top:3px !important;
+  }
+  .side-items{
+    display:flex;
+    justify-content: space-between;
+  }
+  .first{
+    border-bottom: 1px solid lightgray;
+    padding:10px 0px;
+    margin-bottom: 8px !important;
+  }
